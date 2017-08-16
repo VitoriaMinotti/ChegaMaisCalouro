@@ -150,8 +150,8 @@
   <ItemGroup>
     <Content Include="Content\themes\Carrossel\bootstrap.css" />
     <Content Include="Content\themes\Carrossel\bootstrap.min.css" />
-    <Content Include="Content\themes\close.png" />
-    <Content Include="Content\themes\lightbox.min.css" />
+    <Content Include="Content\close.png" />
+    <Content Include="Content\lightbox.min.css" />
     <Content Include="Content\imagens\Biologia c\A_determinação_do_sexo.jpg" />
     <Content Include="Content\imagens\Biologia c\acidos_nucleicos.jpg" />
     <Content Include="Content\imagens\Biologia c\algas.jpg" />
@@ -363,9 +363,9 @@
     <Content Include="Content\themes\Carrossel\puc-sp-2.jpg" />
     <Content Include="Content\themes\Carrossel\UNIP.jpg" />
     <Content Include="Content\themes\Carrossel\usp sao carlos.jpg" />
-    <Content Include="Content\themes\loading.gif" />
-    <Content Include="Content\themes\next.png" />
-    <Content Include="Content\themes\prev.png" />
+    <Content Include="Content\loading.gif" />
+    <Content Include="Content\next.png" />
+    <Content Include="Content\prev.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
